@@ -1,0 +1,9 @@
+.cache
+*.pth
+data/
+cache/
+saves/
+*.zip
+__pycache__/
+*.pyc
+.vscode/
